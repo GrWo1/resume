@@ -11,6 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub%20Pages-464646?style=flat-square&logo=GitHub)](https://github.com/GrWo1/)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
+  <img src="https://github.com/GrWo1/resume/blob/main/data/frof.jpeg" width="500" height="250"/>
 </div>
 
