@@ -16,7 +16,7 @@
 
 ---
 
-### О себе <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width=30"/>
+### О себе <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width="30"/>
 * Имя: Сергей
 * Возраст: 33 года
 * Гражданство: РФ
