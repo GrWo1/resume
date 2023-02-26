@@ -16,6 +16,10 @@
 
 ---
 <a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100"/></a>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aduc.png" width="100"/></a>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_kur.png" width="100"/></a>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_works.png" width="100"/></a>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_skills.png" width="100"/></a>
 
 ---
 
