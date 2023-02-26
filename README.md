@@ -15,8 +15,11 @@
 </div>
 
 ---
+[aboutme](#aboutme)
+---
 
-### О себе <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width="30"/>
+
+### aboutme <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width="30"/>
 * Имя: Сергей
 * Возраст: 33 года
 * Гражданство: РФ
@@ -24,6 +27,8 @@
 * Дети: есть
 * Образование: высшее
 * <a href="mailto:s9197937187@gmail.com">Написать письмо</a>
+
+Ответственный,внимательный, пунктуальный. Умею формулировать и доносить мысли.
 
 ---
 
@@ -67,9 +72,8 @@ ___
   * Gunicorn
   * JWT
   * Postman
-  
----
 
-### Soft Skills <img src="https://github.com/GrWo1/resume/blob/main/data/soft-skills.png" width="30"/>
+
+
 
 
