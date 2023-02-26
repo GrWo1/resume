@@ -15,7 +15,7 @@
 </div>
 
 ---
-<h2><a href="#aboutme">О себе</a></h2>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="50"/></a>
 
 ---
 
