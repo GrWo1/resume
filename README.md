@@ -16,10 +16,10 @@
 
 ---
 <a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100"/></a>
-<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aduc.png" width="100"/></a>
-<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_kur.png" width="100"/></a>
-<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_works.png" width="100"/></a>
-<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_skills.png" width="100"/></a>
+<a href="#education"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aduc.png" width="100"/></a>
+<a href="#class"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_kur.png" width="100"/></a>
+<a href="#works"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_works.png" width="100"/></a>
+<a href="#skills"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_skills.png" width="100"/></a>
 
 ---
 
@@ -37,20 +37,20 @@
 
 ---
 
-### Образование <img src="https://github.com/GrWo1/resume/blob/main/data/icon-teach1.png" width="30"/>
+### Образование <img src="https://github.com/GrWo1/resume/blob/main/data/icon-teach1.png" width="30" id="education"/>
 * Магистратура(математическое образование) - Волгоградский государственный социально-педагогический университет
 * Бакалавр(физико-математическое образование)- Волгоградский государственный социально-педагогический университет
 
 ___
 
-### Курсы повышения квалификации <img src="https://github.com/GrWo1/resume/blob/main/data/icon-document.png" width="30"/>
+### Курсы повышения квалификации <img src="https://github.com/GrWo1/resume/blob/main/data/icon-document.png" width="30" id="class"/>
 * 2023 -- Backend-разработчик на django - Яндекс-Практикум
 * 2022 -- Решение алгоритмических задач для подготовке к олимпиаде по программированию
 * 2015-2023 -- Педагогические курсы повышения квалицикации(предмет: информатика)
 
 ---
 
-### Опыт работы <img src="https://github.com/GrWo1/resume/blob/main/data/icon-soft-skill.png" width="30"/>
+### Опыт работы <img src="https://github.com/GrWo1/resume/blob/main/data/icon-soft-skill.png" width="30" id="works"/>
 * 2023 - настоящий момент -- Учитель информатики
 * 2016 - 2023 -- Учитель информатики и технический специалист
 * 2015 - 2016 -- Учитель информатики
@@ -58,7 +58,7 @@ ___
 
 ---
 
-### Профессианальные навыки <img src="https://github.com/GrWo1/resume/blob/main/data/digital-marketing.png" width="30"/>
+### Профессианальные навыки <img src="https://github.com/GrWo1/resume/blob/main/data/digital-marketing.png" width="30" id="skills"/>
 * Преподование предмета информатики и программирования(школьная программа) в соответствии ФГОС
 * Ремонт и обслуживание компьютерной техники
 * Установка, настройка ПО и ОС
