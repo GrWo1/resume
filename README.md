@@ -15,11 +15,12 @@
 </div>
 
 ---
-[О себе](#aboutme)
+<h2><a href="#aboutme">О себе</a></h2>
+
 ---
 
 
-### О себе <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width="30"/>
+### О себе <img src="https://github.com/GrWo1/resume/blob/main/data/face-resume.png" width="30" id="aboutme"/>
 * Имя: Сергей
 * Возраст: 33 года
 * Гражданство: РФ
