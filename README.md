@@ -15,7 +15,7 @@
 </div>
 
 ---
-<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100"/></a>
+<a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100" style="hover: transform: scale(1.2)"/></a>
 <a href="#education"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aduc.png" width="100"/></a>
 <a href="#class"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_kur.png" width="100"/></a>
 <a href="#works"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_works.png" width="100"/></a>
