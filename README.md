@@ -14,6 +14,8 @@
   <img src="https://github.com/GrWo1/resume/blob/main/data/frof.jpeg" width="500" height="330"/>
 </div>
 
+![Codewars](https://github.r2v.ch/codewars?user=Grwo1&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 ---
 <a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100"/></a>
 <a href="#education"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aduc.png" width="100"/></a>
