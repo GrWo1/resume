@@ -14,7 +14,13 @@
   <img src="https://github.com/GrWo1/resume/blob/main/data/frof.jpeg" width="500" height="330"/>
 </div>
 
-![Codewars](https://github.r2v.ch/codewars?user=Grwo1&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+---
+
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=Grwo1&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
+    </a>
+</p>
 
 ---
 <a href="#aboutme"><img src="https://github.com/GrWo1/resume/blob/main/data/ban_aboutme.png" width="100"/></a>
