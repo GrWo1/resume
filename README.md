@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub%20Pages-464646?style=flat-square&logo=GitHub)](https://github.com/GrWo1/)
 
 <div align="center">
-  <img src="https://github.com/GrWo1/resume/blob/main/data/frof.jpeg" width="500" height="330"/>
+  <img src="https://github.com/GrWo1/resume/blob/main/data/frof.jpeg" width="100%"/>
 </div>
 
 ---
@@ -74,7 +74,7 @@ ___
 * Разработка сайтов (HTML, CSS)
 * Разработка сайтов на CMS Joomla
 * Программирование на языке Python
-* Разработка сайтов на платформе Django
+* Разработка сайтов (фреймворк Django)
 * Навыки:
   * Django REST Framework
   * React (basics)
